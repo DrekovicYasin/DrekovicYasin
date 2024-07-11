@@ -53,3 +53,5 @@
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=drekovicyasin&theme=default&background=ffffff" alt="GitHub Streak Stats" />
 </p>
+
+![snake gif](https://github.com/DrekovicYasin/DrekovicYasin/blob/output/github-contribution-grid-snake.svg)
