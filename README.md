@@ -1,4 +1,4 @@
-<h2>I'm Yasin Gülsuyu <br> Embarking on Web Development with JavaScript and Vue 🌐</h2>
+<h2>I'm Yasin Gülsuyu <br> Embarking on Web Development with JavaScript and React 🌐</h2>
 
 
 I'm on a journey to master web development using JavaScript and Vue. With a passion for designing clean and interactive interfaces, I'm diving into the world of front-end frameworks to create seamless user experiences.
