@@ -1,68 +1,92 @@
-<h1 align="center">Yasin Gülsuyu</h1>
+<div align="center">
+
+<img src="https://avatars.githubusercontent.com/u/106954743?v=4" width="128" height="128" alt="Yasin Gülsuyu" style="border-radius: 50%;" />
+
+# Yasin Gülsuyu
+
+### Frontend & Full-Stack Developer · Istanbul, Turkey
+
+[![Email](https://img.shields.io/badge/Email-yasingulsuyu@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yasingulsuyu@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-@YasinGlsy-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/YasinGlsy)
+[![Live Demo](https://img.shields.io/badge/Demo-pearltattooart.web.app-c9a962?style=flat-square&logo=firebase&logoColor=black)](https://pearltattooart.web.app)
+
+<br />
+
+<img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-16-000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+
+</div>
+
+---
+
+## About Me
+
+Merhaba, ben **Yasin Gülsuyu**. Istanbul'da yaşayan bir **frontend & full-stack developer**'ım.
+
+Modern web uygulamaları geliştiriyorum — **React, Next.js, TypeScript, Tailwind** ve **Firebase** ile. Temiz arayüz, mobil-first tasarım ve **canlıya çıkan** projeler benim için önemli.
+
+- 🌍 **Konum:** Istanbul, Turkey
+- 💼 **Odak:** Frontend · Full-stack · UI/UX · SEO · Performance
+- 🚀 **Son proje:** [Pearl Tattoo Studio](https://pearltattooart.web.app) — Next.js 16, parallax, Firebase Hosting
+- 🧠 **Öğreniyorum:** Node.js, cloud deploy, modern React patterns
+- 🤝 **Açık:** Freelance & iş birliği tekliflerine
+
+---
+
+## Featured Projects
+
+| | Project | Description | Stack | Links |
+|:---:|:---|:---|:---|:---|
+| 🖤 | **Pearl Tattoo Studio** | Premium dövme stüdyosu sitesi — parallax, mobil kart animasyonları, SEO | Next.js · Framer Motion · Firebase | [**Live**](https://pearltattooart.web.app) · [Code](https://github.com/DrekovicYasin/pearlTattooStudio) |
+| ⚡ | **NeonTech** | PC builder, FPS & bottleneck calculator, blog | React · TypeScript · Vite · Firebase | [Code](https://github.com/DrekovicYasin/NeonTech) |
+| 🎬 | **Cinema Ticket Reservation** | Sinema bileti rezervasyon uygulaması | JavaScript | [Code](https://github.com/DrekovicYasin/CinemaTicketReservation) |
+| 💰 | **Expense Tracker** | iOS harcama takip uygulaması | Swift | [Code](https://github.com/DrekovicYasin/Expense-Tracker) |
+
+---
+
+## GitHub Stats
+
 <p align="center">
-  <strong>Frontend & full-stack developer</strong> · Istanbul, Turkey
+  <img src="https://github-readme-stats.vercel.app/api?username=DrekovicYasin&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrekovicYasin&layout=compact&theme=github_dark&hide_border=true&count_private=true&langs_count=8" alt="Top languages" height="170" />
 </p>
 
 <p align="center">
-  <a href="mailto:yasingulsuyu@gmail.com">yasingulsuyu@gmail.com</a>
-  ·
-  <a href="https://www.instagram.com/YasinGlsy">Instagram</a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-16-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://streak-stats.demolab.com?user=DrekovicYasin&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
 </p>
 
 ---
 
-### About
-
-Building modern web apps with **React, Next.js, TypeScript** and **Firebase**.  
-I care about polished UI, mobile-first layouts, and shipping things that actually go live.
-
-- 🌍 Based in **Istanbul**
-- 🚀 Recently shipped a production tattoo studio site (Next.js + Firebase Hosting)
-- 🧠 Into React, Node.js, Tailwind, SEO & performance
-- 🤝 Open to freelance / collab on frontend & full-stack projects
-
----
-
-### Featured work
-
-| Project | Stack | Link |
-|--------|-------|------|
-| **Pearl Tattoo Studio** | Next.js 16 · Framer Motion · Firebase | [Live demo](https://pearltattooart.web.app) · [Repo](https://github.com/DrekovicYasin/pearlTattooStudio) |
-| **NeonTech** | TypeScript | [Repo](https://github.com/DrekovicYasin/NeonTech) |
-| **Expense Tracker** | Swift | [Repo](https://github.com/DrekovicYasin/Expense-Tracker) |
-| **Cinema Ticket Reservation** | JavaScript | [Repo](https://github.com/DrekovicYasin/CinemaTicketReservation) |
-
----
-
-### GitHub stats
+## Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DrekovicYasin&show_icons=true&theme=graywhite&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrekovicYasin&layout=compact&theme=graywhite&hide_border=true&count_private=true" alt="Top languages" height="165" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind,nodejs,git,firebase,docker,figma,swift,vite" alt="Skills" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DrekovicYasin&theme=graywhite&hide_border=true" alt="Contribution streak" />
-</p>
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS, Framer Motion  
+**Backend & Tools:** Node.js, Firebase, Git, Docker  
+**Mobile:** Swift (iOS)
 
 ---
 
-### Skills
+## Contribution Graph
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind,nodejs,git,firebase,docker,figma" alt="Skills" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DrekovicYasin/DrekovicYasin/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DrekovicYasin/DrekovicYasin/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/DrekovicYasin/DrekovicYasin/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DrekovicYasin&color=9a9590&style=flat-square" alt="Profile views" />
-</p>
+<div align="center">
+
+**Thanks for visiting!**
+
+<img src="https://komarev.com/ghpvc/?username=DrekovicYasin&label=Profile%20views&color=9a9590&style=flat-square" alt="Profile views" />
+
+</div>
