@@ -23,28 +23,28 @@
 
 ---
 
-## About Me
+## Hakkımda
 
 Merhaba, ben **Yasin Gülsuyu**. Istanbul'da yaşayan bir **frontend & full-stack developer**'ım.
 
-Modern web uygulamaları geliştiriyorum — **React, Next.js, TypeScript, Tailwind** ve **Firebase** ile. Temiz arayüz, mobil-first tasarım ve **canlıya çıkan** projeler benim için önemli.
+React, Next.js, TypeScript, Tailwind ve Firebase ile web uygulamaları geliştiriyorum. Saha operasyonları, admin panelleri ve mobil arayüzler üzerinde çalışıyorum; temiz UI, mobil-first tasarım ve canlıya çıkan projeler önceliğim.
 
-- 🌍 **Konum:** Istanbul, Turkey
-- 💼 **Odak:** Frontend · Full-stack · UI/UX · SEO · Performance
-- 🚀 **Son proje:** [Pearl Tattoo Studio](https://pearltattooart.web.app) — Next.js 16, parallax, Firebase Hosting
-- 🧠 **Öğreniyorum:** Node.js, cloud deploy, modern React patterns
-- 🤝 **Açık:** Freelance & iş birliği tekliflerine
+- **Konum:** Istanbul, Turkey
+- **Odak:** Frontend · Full-stack · Firebase · Harita & saha uygulamaları
+- **Son proje:** [Pearl Tattoo Studio](https://pearltattooart.web.app)
+- **Açık:** Freelance ve iş birliği tekliflerine
 
 ---
 
-## Featured Projects
+## Projeler
 
-| | Project | Description | Stack | Links |
-|:---:|:---|:---|:---|:---|
-| 🖤 | **Pearl Tattoo Studio** | Premium dövme stüdyosu sitesi — parallax, mobil kart animasyonları, SEO | Next.js · Framer Motion · Firebase | [**Live**](https://pearltattooart.web.app) · [Code](https://github.com/DrekovicYasin/pearlTattooStudio) |
-| ⚡ | **NeonTech** | PC builder, FPS & bottleneck calculator, blog | React · TypeScript · Vite · Firebase | [Code](https://github.com/DrekovicYasin/NeonTech) |
-| 🎬 | **Cinema Ticket Reservation** | Sinema bileti rezervasyon uygulaması | JavaScript | [Code](https://github.com/DrekovicYasin/CinemaTicketReservation) |
-| 💰 | **Expense Tracker** | iOS harcama takip uygulaması | Swift | [Code](https://github.com/DrekovicYasin/Expense-Tracker) |
+| Project | Açıklama | Stack | Link |
+|:---|:---|:---|:---|
+| **saha** | Saha satış ve ziyaret takibi — müşteri, sipariş, tahsilat, harita, offline sync | Next.js · Firebase · Leaflet | [Code](https://github.com/DrekovicYasin/saha) |
+| **EkoSA** | Kurumsal sürdürülebilirlik platformu — görevler, duello, liderlik tablosu, market | Next.js · Firebase · PWA | [Code](https://github.com/DrekovicYasin/ekosa) |
+| **admin-panel** | Multi-tenant yönetim paneli — kullanıcı, finans, canlı harita, randevu | React · Vite · Firebase | [Code](https://github.com/DrekovicYasin/admin-panel) |
+| **HackerOS** | Cyberpunk hacking simülatörü — terminal, mini oyunlar, progression | Swift · SwiftUI | [Code](https://github.com/DrekovicYasin/HackerOS) |
+| **Pearl Tattoo Studio** | Dövme stüdyosu sitesi — parallax, mobil animasyonlar, SEO | Next.js · Framer Motion · Firebase | [**Live**](https://pearltattooart.web.app) · [Code](https://github.com/DrekovicYasin/pearlTattooStudio) |
 
 ---
 
