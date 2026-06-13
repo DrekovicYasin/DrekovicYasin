@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/106954743?v=4" width="128" height="128" alt="Yasin Gülsuyu" style="border-radius: 50%;" />
+<img src="https://media.tenor.com/TgDFyHS2JPUAAAAM/jim-carrey-typing.gif" width="280" alt="Jim Carrey typing furiously" />
 
 # Yasin Gülsuyu
 
