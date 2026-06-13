@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.tenor.com/TgDFyHS2JPUAAAAM/jim-carrey-typing.gif" width="280" alt="Jim Carrey typing furiously" />
+<img src="https://media.giphy.com/media/fQZX2aoRC1Tqw/giphy.gif" width="280" alt="Jim Carrey keyboard" />
 
 # Yasin Gülsuyu
 
