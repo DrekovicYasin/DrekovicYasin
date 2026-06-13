@@ -73,16 +73,6 @@ React, Next.js, TypeScript, Tailwind ve Firebase ile web uygulamaları geliştir
 
 ---
 
-## Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DrekovicYasin/DrekovicYasin/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DrekovicYasin/DrekovicYasin/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/DrekovicYasin/DrekovicYasin/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
 <div align="center">
 
 **Thanks for visiting!**
