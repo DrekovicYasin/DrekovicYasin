@@ -31,7 +31,7 @@ React, Next.js, TypeScript, Tailwind ve Firebase ile web uygulamaları geliştir
 
 - **Konum:** Istanbul, Turkey
 - **Odak:** Frontend · Full-stack · Firebase · Harita & saha uygulamaları
-- **Son proje:** [Pearl Tattoo Studio](https://pearltattooart.web.app)
+- **Son proje:** [sahaCarbit](https://github.com/DrekovicYasin/sahaCarbit) — HORECA teslimat planlama
 - **Açık:** Freelance ve iş birliği tekliflerine
 
 ---
@@ -40,6 +40,7 @@ React, Next.js, TypeScript, Tailwind ve Firebase ile web uygulamaları geliştir
 
 | Project | Açıklama | Stack | Link |
 |:---|:---|:---|:---|
+| **sahaCarbit** | CarrefourSA HORECA teslimat planlama — Saha sipariş sync, rota optimizasyonu, canlı teslim | Next.js · Firebase · Leaflet | [Code](https://github.com/DrekovicYasin/sahaCarbit) |
 | **saha** | Saha satış ve ziyaret takibi — müşteri, sipariş, tahsilat, harita, offline sync | Next.js · Firebase · Leaflet | [Code](https://github.com/DrekovicYasin/saha) |
 | **EkoSA** | Kurumsal sürdürülebilirlik platformu — görevler, duello, liderlik tablosu, market | Next.js · Firebase · PWA | [Code](https://github.com/DrekovicYasin/ekosa) |
 | **admin-panel** | Multi-tenant yönetim paneli — kullanıcı, finans, canlı harita, randevu | React · Vite · Firebase | [Code](https://github.com/DrekovicYasin/admin-panel) |
