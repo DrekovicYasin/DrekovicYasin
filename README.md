@@ -25,7 +25,7 @@
 
 ## Hakkımda
 
-Merhaba, ben **Yasin Gülsuyu**. Istanbul'da yaşayan bir **frontend & full-stack developer**'ım.
+Merhaba, ben **Yasin Gülsuyu**. Istanbul'da yaşayan bir **full-stack developer**'ım.
 
 React, Next.js, TypeScript, Tailwind ve Firebase ile web uygulamaları geliştiriyorum. Saha operasyonları, admin panelleri ve mobil arayüzler üzerinde çalışıyorum; temiz UI, mobil-first tasarım ve canlıya çıkan projeler önceliğim.
 
