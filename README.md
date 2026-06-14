@@ -4,7 +4,7 @@
 
 # Yasin Gülsuyu
 
-### Frontend & Full-Stack Developer · Istanbul, Turkey
+### Full-Stack Developer · Istanbul, Turkey
 
 [![Email](https://img.shields.io/badge/Email-yasingulsuyu@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yasingulsuyu@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-@YasinGlsy-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/YasinGlsy)
